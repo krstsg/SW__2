@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<products>
+	<product>
+		<name>Смартфон Samsung Galaxy M33 5G 6/128Gb Green (SM-M336BZGGSEK)</name>
+		<rating>4.8</rating>
+		<review_count>331</review_count>
+		<price_old currency="₴">9.499</price_old>
+		<price_new currency="₴">8.499</price_new>
+	</product>
+	<product>
+		<name>Телевізор Samsung UE43BU8000UXUA</name>
+		<rating>4.7</rating>
+		<review_count>54</review_count>
+		<description>An interesting item</description>
+		<price_old currency="₴">20.399</price_old>
+		<price_new currency="₴">18.999</price_new>
+		<discount>-7%</discount>
+	</product>
+	<product>
+		<name>Пральна машина Whirlpool WRBSB 6228 B UA</name>
+		<rating>4.9</rating>
+		<review_count>118</review_count>
+		<price_old currency="₴">15.899</price_old>
+		<price_new currency="₴">13.555</price_new>
+		<discount>-15%</discount>
+	</product>
+	<product color="red">
+		<name>Холодильник Samsung RB38T676FB1/UA</name>
+		<rating>4.9</rating>
+		<review_count>147</review_count>
+		<price_old currency="₴">29.199</price_old>
+		<price_new currency="₴">26.499</price_new>
+		<discount>-9%</discount>
+	</product>
+	<product>
+		<name>Ноутбук HP 250 G8 (45S01ES) Silver</name>
+		<rating>4.7</rating>
+		<review_count>27</review_count>
+		<price_old currency="₴">17.999</price_old>
+		<price_new currency="₴">13.999</price_new>
+		<discount>-22%</discount>
+	</product>
+	<product>
+		<name>Смартфон Samsung Galaxy M33 5G 6/128Gb Green (SM-M336BZGGSEK)</name>
+		<rating>4.8</rating>
+		<review_count>331</review_count>
+		<price_old currency="₴">9.499</price_old>
+		<price_new currency="₴">8.499</price_new>
+		<discount>-11%</discount>
+	</product>
+	<product>
+		<name>Смартфон Apple iPhone 13 128Gb Starlight</name>
+		<rating>4.9</rating>
+		<review_count>473</review_count>
+		<price_old currency="₴">35.499</price_old>
+		<price_new currency="₴">31.499</price_new>
+		<discount>-11%</discount>
+	</product>
+	<product>
+		<name>Смартфон Xiaomi Redmi Note 12 4/128Gb Onyx Gray</name>
+		<rating>4.7</rating>
+		<review_count>45</review_count>
+		<price_old currency="₴">7.999</price_old>
+		<price_new currency="₴">7.499</price_new>
+		<discount>-6%</discount>
+	</product>
+	<product>
+		<name>Смартфон OPPO A17k 3/64Gb Blue</name>
+		<rating>4.7</rating>
+		<review_count>42</review_count>
+		<price_old currency="₴">5.999</price_old>
+		<price_new currency="₴">4.555</price_new>
+		<discount>-24%</discount>
+	</product>
+	<product>
+		<name>Пральна машина Samsung WW70T3020BW/UA</name>
+		<rating>4.4</rating>
+		<review_count>47</review_count>
+		<price_old currency="₴">16.799</price_old>
+		<price_new currency="₴">15.599</price_new>
+		<discount>-7%</discount>
+	</product>
+	<product>
+		<name>Пральна машина Whirlpool WRBSB 6228 B UA</name>
+		<rating>4.9</rating>
+		<review_count>118</review_count>
+		<price_old currency="₴">15.899</price_old>
+		<price_new currency="₴">13.555</price_new>
+		<discount>-15%</discount>
+	</product>
+	<product>
+		<name>Пральна машина Whirlpool TDLRB 7222BS UA</name>
+		<rating>5</rating>
+		<review_count>10</review_count>
+		<price_old currency="₴">20.799</price_old>
+		<price_new currency="₴">17.999</price_new>
+		<discount>-13%</discount>
+	</product>
+	<product>
+		<name>Пральна машина Vestfrost XMV 105 F2</name>
+		<rating>5</rating>
+		<review_count>1</review_count>
+		<price_old currency="₴">10.999</price_old>
+		<price_new currency="₴">9.699</price_new>
+		<discount>-12%</discount>
+	</product>
+	<product>
+		<name>Ноутбук ігровий Lenovo Gaming 3 15IHU6 (82K1018YRA) Shadow Black</name>
+		<rating>4.9</rating>
+		<review_count>9</review_count>
+		<price_old currency="₴">40.999</price_old>
+		<price_new currency="₴">33.333</price_new>
+		<discount>-19%</discount>
+	</product>
+	<product>
+		<name>Ноутбук HP 250 G8 (45S01ES) Silver</name>
+		<rating>4.7</rating>
+		<review_count>27</review_count>
+		<price_old currency="₴">17.999</price_old>
+		<price_new currency="₴">13.999</price_new>
+		<discount>-22%</discount>
+	</product>
+	<product>
+		<name>Ноутбук Apple New MacBook Air M1 13.3'' 256Gb MGND3 Gold 2020</name>
+		<rating>4.8</rating>
+		<review_count>50</review_count>
+		<price_old currency="₴">44.499</price_old>
+		<price_new currency="₴">39.999</price_new>
+		<discount>-10%</discount>
+	</product>
+	<product>
+		<name>Ноутбук Acer Aspire 3 A315-58 (NX.ADDEU.015) Pure Silver</name>
+		<rating>5</rating>
+		<review_count>2</review_count>
+		<price_old currency="₴">23.999</price_old>
+		<price_new currency="₴">17.799</price_new>
+		<discount>-26%</discount>
+	</product>
+	<product>
+		<name>Телевізор Samsung UE43AU7100UXUA</name>
+		<rating>4.5</rating>
+		<review_count>193</review_count>
+		<price_new currency="₴">17.699</price_new>
+	</product>
+	<product>
+		<name>Телевізор Hisense 32А4BG</name>
+		<rating>4.9</rating>
+		<review_count>38</review_count>
+		<price_old currency="₴">8.799</price_old>
+		<price_new currency="₴">7.124</price_new>
+		<discount>-19%</discount>
+	</product>
+	<product>
+		<name>Телевізор Blaupunkt 32FBC5000</name>
+		<rating>4.8</rating>
+		<review_count>42</review_count>
+		<price_old currency="₴">9.499</price_old>
+		<price_new currency="₴">7.499</price_new>
+		<discount>-21%</discount>
+	</product>
+	<product>
+		<name>Телевізор Samsung UE50AU7100UXUA</name>
+		<rating>4.5</rating>
+		<review_count>193</review_count>
+		<price_new currency="₴">20.499</price_new>
+	</product>
+	<product>
+		<name>Пилосос для сухого прибирання без мішка Bosch BGS05A225</name>
+		<rating>4.6</rating>
+		<review_count>391</review_count>
+		<price_old currency="₴">4.719</price_old>
+		<price_new currency="₴">3.399</price_new>
+		<discount>-28%</discount>
+	</product>
+	<product>
+		<name>Пилосос для сухого прибирання без мішка Philips FC9334/09</name>
+		<rating>5</rating>
+		<review_count>35</review_count>
+		<price_old currency="₴">6.799</price_old>
+		<price_new currency="₴">5.999</price_new>
+		<discount>-12%</discount>
+	</product>
+	<product>
+		<name>Пилосос для сухого прибирання без мішка Rowenta RO4886EA</name>
+		<rating>4.9</rating>
+		<review_count>370</review_count>
+		<price_old currency="₴">6.999</price_old>
+		<price_new currency="₴">4.999</price_new>
+		<discount>-29%</discount>
+	</product>
+	<product>
+		<name>Пилосос миючий з аквафільтром Bosch BWD41740</name>
+		<rating>4.5</rating>
+		<review_count>173</review_count>
+		<price_old currency="₴">11.349</price_old>
+		<price_new currency="₴">8.799</price_new>
+		<discount>-22%</discount>
+	</product>
+	<product rating="4.8">
+		<name>Product_X</name>
+		<price_new currency="$">500.0</price_new>
+	</product>
+</products>
